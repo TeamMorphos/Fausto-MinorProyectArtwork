@@ -1,4 +1,4 @@
 # reposi
-logos
+Logos look and feel
 readme.md
-vectorespies.ai
+
